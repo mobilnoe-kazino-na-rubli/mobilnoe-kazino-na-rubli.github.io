@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnoe-kazino-na-rubli.github.io
+Sitemap: https://mobilnoe-kazino-na-rubli.github.io/sitemap.xml
